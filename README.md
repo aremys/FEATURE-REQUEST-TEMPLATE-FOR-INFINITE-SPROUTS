@@ -1,8 +1,7 @@
 # FEATURE-REQUEST-TEMPLATE-FOR-INFINITE-SPROUTS
 Requesting the addition of real-time weather integration feature to Infinite Sprouts.
 Feature Request: Real-Time Weather Integration
-## Description:Summary: Requesting the addition of real-time weather integration feature to Infinite Sprouts.
-## Detailed Description:Integrate with a reliable weather API to provide users with up-to-date weather information for their farm locations.
+## Description:Integrate with a reliable weather API to provide users with up-to-date weather information for their farm locations.
 ## Display current weather conditions, temperature, humidity, wind speed, and precipitation forecast.
 ## Include weather alerts and notifications for severe weather conditions.
 ## Use Case: Farmers can make more informed decisions about crop planting, irrigation, and harvesting based on real-time weather data.
